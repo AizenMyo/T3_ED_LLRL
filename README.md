@@ -1,2 +1,2 @@
-#T3_ED_LLRL^M
+#T3_ED_LLRL \n
 Fichero de versiones
